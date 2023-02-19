@@ -1,4 +1,4 @@
-                    GNU GENERAL PUBLIC LICENSE
+              CONDITIONAL GNU GENERAL PUBLIC LICENSE 3.0
                        Version 3, 29 June 2007
 
  Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
@@ -672,3 +672,11 @@ may consider it more useful to permit linking proprietary applications with
 the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
 <https://www.gnu.org/licenses/why-not-lgpl.html>.
+
+Final Conditions of the developers which must take precedent over all other
+rules of the GPL: which means you have the freedom to use, modify, and distribute it, 
+as long as you follow the terms of the license. 
+You are not allowed to use this product or app for malicious, illegal, profit-oriented, or 
+proprietary hardware, software, media, or product development.
+Use of this product or app is viewed as acceptance of these terms as they are clearly
+stated in the installer prompts and required for the product or app to function.
