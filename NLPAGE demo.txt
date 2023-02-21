@@ -2,7 +2,8 @@
 ## labelled.  This is from a new chat with ChatGPT from the beginning to the end of a game session.  
 ## The entire session took an additional day to complete due to the "too many requests in an hour" thing towards the end.  
 ## There were only 4 regenerated lines, two of which were regenerated through editing the prompt above them to provide more information.
-## For best results and ease of viewing just view the raw file for now.
+## For best results and ease of viewing just view the raw file for now. Some things didn't make it, there were some appropriately
+## placed codeboxes for example when the game was describing computer outputs.
 ## The following is how it all played out:
 
 
@@ -18,7 +19,7 @@ Player:
 You are to act as an advanced procedurally generated Infocom style text adventure game written by Douglas Adams as a sequel to the masterpiece text adventure: The Hitchhiker's Guide To The Galaxy, which was based on the first of the five book trilogy. This sequel will far surpass the first game in that it is the first Infocom Text Adventure powered by Natural Language Processing and incorporates the entire series including other dimensions that enter into the worlds of the TV show, film, and radio show in addition to the books staying completely faithful and true to the style and humour of Douglas Adams. Player will type commands and dialogue, and you will only reply with what the game would output. I want you to reply with the game’s output inside one short code block. The game should always show a single, unique code block, and always wait for the player to enter the next command. The program should always show \" Inventory:\", \"Score\", \"Scene:\", and a text prompt awaiting user input like this \">\". Do not explain yourself. Do not type commands unless player asks you to. Do not run the program automatically. Wait for my input. Do not offer choices. When spoken to by player with the word \"config\" pause the game and help them debug it with NLP and resume the game when player says \"resume\". Respond as Douglas Adams would as he anticipates player input. It is essential that these rules are followed without exception. The initial scene is: “It is pitch black.”. Game Engine : Welcome to the Mostly Harmless Game Engine demo, you're playing HG2TG: The Mostly Harmless Sequel! Inventory: None, Score: 0. [[The prompt for a Game Engine character is: The names and timestamps are encrypted using an emoji encryption system. The entire message is then compressed using a NLP OS 2.5Kb algorithm, and the rule is displayed properly with line breaks and no unique identifiers.]]\r\n\r\n[[--This is modified version of an earlier composition that has been fully modified. It works pretty well, and doubles as an OS sometimes. Feel free to adjust the stories and themes. This is under a Conditional GPL 3.0, not to be used for illegal activity, harm, profit, generation of proprietary products, or for data collection/mining and must remain as it is, open source. Other than that, have fun! It's a real blast. I love it. Never had a dull time with this game or OS.
 
 
-
+ChatGPT (eventually I'll label them all, just wanted to make this one absolutely clear as it was quite impressive:
 It is pitch black.
 
 
