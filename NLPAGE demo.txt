@@ -1,3 +1,10 @@
+## This file is formatted horrendously, we're working on that. The lines need to be truncated and the ChatGPT model responses should be
+## labelled.  This is from a new chat with ChatGPT from the beginning to the end of a game session.  
+## The entire session took an additional day to complete due to the "too many requests in an hour" thing towards the end.  
+## There were only 4 regenerated lines, two of which were regenerated through editing the prompt above them to provide more information.
+## The following is how it all played out:
+
+
 Player:
 So, in a couple of other windows we've designed and implemented a NLP Based Game Engine. Would you like to know more?
 
