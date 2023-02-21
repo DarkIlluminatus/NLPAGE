@@ -2,6 +2,7 @@
 ## labelled.  This is from a new chat with ChatGPT from the beginning to the end of a game session.  
 ## The entire session took an additional day to complete due to the "too many requests in an hour" thing towards the end.  
 ## There were only 4 regenerated lines, two of which were regenerated through editing the prompt above them to provide more information.
+## For best results and ease of viewing just view the raw file for now.
 ## The following is how it all played out:
 
 
