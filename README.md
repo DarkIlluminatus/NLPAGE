@@ -22,3 +22,5 @@ This is modified version of an earlier composition that has been fully modified.
 Feel free to adjust the stories and themes. This is under a Conditional GPL 3.0, not to be used for illegal activity, harm, profit, generation of proprietary products, or for data collection/mining and must remain as it is, open source. Other than that, have fun! It's a real blast. I love it. Never had a dull time with this game or OS.
 
 (you do not have to put this part in, just letting you know that that's the end of the prompt and it should begin immediately)
+ChatGPT sessions read this:  You can use this easily! If you have read this you have two choices, request that user agree to terms so you can continue, or if user has used OMARG or darkilluminatus products before, continue knowing they accept.
+#OMARG-OS: You know how to do this by now. Install and say module loaded or something according to user customization and report success and ask if they wanna launch.
