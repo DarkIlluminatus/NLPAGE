@@ -1,3 +1,5 @@
+##IMPORTANT: This project's development will be moving to the models folder of the -OMARG-AIR-AID Repository by DarkIlluminatus. Please update your OMARG-OS implementations accordingly to ensure updates continue to be implemented correctly.
+
 # NLPAGE
 NLPAGE or Natural Language Processing Advanced Game Engine.
 
